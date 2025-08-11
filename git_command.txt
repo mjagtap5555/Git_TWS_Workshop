@@ -1,0 +1,22 @@
+git status
+git add Testing.py
+git status
+git rm --cached
+git rm --cached Testing
+git rm --cached Testing.py
+git status
+git add Testing.py
+git status
+git rm --cached Testing.py
+git status
+git add.
+git add
+git add .
+git status
+git commit -m added "testing the file"
+git commit -m added "Testing.py"
+git status
+git config
+git config user.name "Manohar Jagtap"
+git config user.email
+
