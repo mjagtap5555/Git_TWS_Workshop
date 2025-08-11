@@ -1,0 +1,1 @@
+print("Hello Dosto,kaise ho aap sabh log");
