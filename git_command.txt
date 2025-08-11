@@ -18,5 +18,26 @@ git commit -m added "Testing.py"
 git status
 git config
 git config user.name "Manohar Jagtap"
-git config user.email
-
+git config user.emailgit 
+38 git status
+  39 git add git_command.txt
+  40 git status
+  41 git commit -m"git_command.txt"
+  42 git status
+  43 git status
+  44 git remote add origin https://github.com/mjagtap5555/Git_TWS_Workshop.git
+  45 git remote -v
+  46 git status
+  47 git push origin master
+  48 git status
+  49 git remote -v
+  50 cd ..
+  51 mkdir folderfromgithub
+  52 ls
+  53 cd .\folderfromgithub\
+  54 git clone https://github.com/mjagtap5555/Git_TWS_Workshop.git
+  55 ls
+  56 cd .\Git_TWS_Workshop\
+  57 ls
+  58 clear
+  59 git statusclear
