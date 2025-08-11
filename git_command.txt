@@ -23,6 +23,8 @@ git config user.emailgit
   39 git add git_command.txt
   40 git status
   41 git commit -m"git_command.txt"
+
+this is new changes done at githubside
   42 git status
   43 git status
   44 git remote add origin https://github.com/mjagtap5555/Git_TWS_Workshop.git
